@@ -1,0 +1,12 @@
+README.md
+setup.py
+thumbcrafter/__init__.py
+thumbcrafter/content_analyzer.py
+thumbcrafter/image_generator.py
+thumbcrafter/text_overlay.py
+thumbcrafter/utils.py
+thumbcrafter.egg-info/PKG-INFO
+thumbcrafter.egg-info/SOURCES.txt
+thumbcrafter.egg-info/dependency_links.txt
+thumbcrafter.egg-info/requires.txt
+thumbcrafter.egg-info/top_level.txt
